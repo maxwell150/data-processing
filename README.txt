@@ -1,5 +1,6 @@
-## Programming Assignment 1: Data Preparation and Understanding
-# This repository contains the code and result of the Assignment
+## Data Preparation and Understanding
+The data is from the “Stanford Dogs” dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/) for all our 4 programming assignments. There are a total of 120 classes
+(dog breeds). The number of images for each class ranges from 148 to 252.
 #   The classess contained are: Chihuahua, Japanese_spaniel, Maltese_dog, Pekinese
 
 ##  Questions
